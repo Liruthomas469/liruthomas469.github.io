@@ -5,11 +5,11 @@
   img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
   text: English
 
--lang: sp
- img: https://cdn.countryflags.com/thumbs/spain/flag-400.png 
- text: Spanish
+- lang: esp
+  img: https://cdn.countryflags.com/thumbs/spain/flag-400.png 
+  text: Spanish
  
- - lang: fr
+- lang: fr
   img: https://cdn.countryflags.com/thumbs/france/flag-400.png
   text: French
 
