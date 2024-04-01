@@ -5,4 +5,4 @@ title: About
 
 ## About
 
-All are welcome!
+All Are Welcome!
