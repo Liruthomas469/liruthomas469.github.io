@@ -5,7 +5,7 @@ title: About
 
 ## About
 
-## All Are Welcome!
+### All Are Welcome!
 
 ### Why
 
