@@ -11,6 +11,6 @@ title: About
 
 We provide high quality services at affordable price.
 
-###How
+### How
 
 Visit us at Moi AV, Greenspan Mall Second Floor
