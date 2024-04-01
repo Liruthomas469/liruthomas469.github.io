@@ -5,10 +5,12 @@ title: About
 
 ## About
 
-##All Are Welcome!
+## All Are Welcome!
 
-###Why
+### Why
+
 We provide high quality services at affordable price.
 
-###how
+###How
+
 Visit us at Moi AV, Greenspan Mall Second Floor
