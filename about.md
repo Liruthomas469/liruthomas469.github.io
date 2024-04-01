@@ -5,4 +5,4 @@ title: About
 
 ## About
 
-Hi, nice to meet you.
+All are welcome!
