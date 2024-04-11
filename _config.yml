@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Liru Computer Services
+title: Thomas Liru
 email: liruthomas469.com
-author: LCS.
+author: T. Liru
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
