@@ -5,9 +5,9 @@ title: About
 
 ## About
 
-### All Are Welcome!
+### Thomas Liru
 
-### Why
+### 
 
 We provide high quality services at affordable price.
 
