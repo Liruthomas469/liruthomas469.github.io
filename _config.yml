@@ -41,8 +41,6 @@ author: T. Liru
 #   "Copyright © 2017-2021 Foobar"
 #
 copyright : " Unpublished Work ©  {author} {currentYear} "
-
-  
   
 description: >- # this means to ignore newlines until "baseurl:"
   I am Thomas Liru, a tech enthusiast on a mission to simplify the complex latest technology in the digital world.
